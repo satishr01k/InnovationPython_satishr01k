@@ -1,0 +1,3 @@
+Create a branch off Master
+Work
+Merge it back to Master when done
